@@ -1,0 +1,5 @@
+{
+  "name": "Note4U",
+  "description": "A premium, mobile-first note-taking application powered by Google Gemini. Features local storage, pinned notes, smart sorting, multi-language support (EN/DE), and customizable themes.",
+  "requestFramePermissions": []
+}
